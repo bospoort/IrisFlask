@@ -25,6 +25,11 @@ def predict(x):
 def default():
     return 'default'
 
+    
+@app.route('/version')  
+def default():
+    return '1.0'
+
 @app.route('/api/predict', methods=['POST'])  
 def run():
     data = request.json
