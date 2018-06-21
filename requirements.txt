@@ -8,7 +8,3 @@ pandas==0.21.0
 scikit_learn==0.19.1  
 # Micro web framework  
 Flask==0.12.2 
-
-pillow
-tensorflow
-keras

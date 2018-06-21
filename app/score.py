@@ -27,7 +27,7 @@ def default():
 
     
 @app.route('/version')  
-def default():
+def version():
     return '1.0'
 
 @app.route('/api/predict', methods=['POST'])  
