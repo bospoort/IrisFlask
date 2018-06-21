@@ -1,7 +1,7 @@
 # Multi-dimensional arrays and more  
 numpy==1.13.3  
 # Scientific computing and more  
-#scipy==1.0.0  
+scipy==1.0.0  
 # Data manipulation and analysis  
 #pandas==0.21.0  
 # Machine learning library  
